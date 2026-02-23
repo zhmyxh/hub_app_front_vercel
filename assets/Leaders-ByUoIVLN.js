@@ -1,0 +1,1 @@
+import{b as a,j as s,N as d}from"./index-BO2m7w7Z.js";function i(){const{t:e}=a();return s.jsx("div",{id:"leaders",className:"app-page",children:s.jsxs("div",{id:"leaders-list",className:"box",children:[s.jsx("span",{className:"header-text",children:e("header.leaders")}),s.jsx("div",{className:"line"}),s.jsx(d,{})]})})}export{i as default};
