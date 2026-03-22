@@ -1,0 +1,1 @@
+import{u as s,a as o,r as t,c as n,j as e,N as a}from"./index-BWn7jjAw.js";/* empty css                                 */function f(){const{depositPack:r,depositFee:i,depositMin:c}=s(),{t:u}=o(),[d,p]=t.useState(0),[l,m]=t.useState(""),{balance:x}=n();return e.jsx("div",{id:"deposit",children:e.jsx(a,{})})}export{f as default};
